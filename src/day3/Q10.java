@@ -12,7 +12,7 @@ public class Q10 {
 		int a = scan.nextInt();
 		int b;
 		do {
-			System.out.println("b를 더 크게 입력하세요.");
+			System.out.println("b를 더 크게 입력하세요.d");
 			b=scan.nextInt();
 			
 		}while(a>b);

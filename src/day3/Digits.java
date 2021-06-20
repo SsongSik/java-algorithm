@@ -11,7 +11,7 @@ public class Digits {
 		
 		do {
 			
-			System.out.println("a 입력 : ");
+			System.out.println("a 입력s : ");
 			a = scan.nextInt();
 		}while(a<10 || a>99);
 		

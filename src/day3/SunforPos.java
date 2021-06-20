@@ -10,7 +10,7 @@ public class SunforPos {
 		int n;
 		
 		do {
-			System.out.print("n값 입력 : ");
+			System.out.print("n값 입s력 : ");
 			n = scan.nextInt();
 		}while(n<=0);
 		

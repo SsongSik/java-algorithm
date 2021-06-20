@@ -9,7 +9,7 @@ public class Q12 {
 			System.out.printf("%3d", i);
 		}
 		System.out.println();
-		System.out.println("---+---------------------------");
+		System.out.println("---+----------------------------");
 		
 		for(int i = 1; i<=9; i++) {
 			System.out.printf(i+" |");
