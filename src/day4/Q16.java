@@ -19,7 +19,7 @@ public class Q16 {
 			for(int k=1; k<=i*2-1; k++) {
 				System.out.print("*");
 			}
-			System.out.println();
+			System.out.println("");
 		}
 	}
 }
