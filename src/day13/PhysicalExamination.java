@@ -40,7 +40,7 @@ public class PhysicalExamination {
 			System.out.println(x[i].name+"  "+x[i].height+"  "+x[i].vision);
 		}
 		
-		System.out.println("Æò±Õ Å° : "+aveHeight(x));
+		System.out.println("Æò±Õ Å° :  "+aveHeight(x));
 	}
 	
 }
