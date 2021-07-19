@@ -16,7 +16,7 @@ public class Q5 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.print("정수 입력 : ");
+		System.out.print("정수 입력  : ");
 		int num = scan.nextInt();
 		
 		recur(num);

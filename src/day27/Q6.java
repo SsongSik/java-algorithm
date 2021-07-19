@@ -10,7 +10,7 @@ public class Q6 {
 		if(no>1)
 			move(no-1, x, 6-x-y);
 		
-		System.out.println("¿ø¹Ý["+no+"]À» "+name[x-1]+"±âµÕ¿¡¼­ "+name[y-1]+"±âµÕÀ¸·Î ¿Å±è");
+		System.out.println("¿ø¹Ý["+no+"]À» "+name[x-1]+"±âµÕ¿¡¼­ "+name[y-1]+"±âµÕÀ¸·Î ¿Å±è ");
 		
 		if(no>1)
 			move(no-1, 6-x-y, y);
