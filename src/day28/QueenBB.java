@@ -10,7 +10,6 @@ public class QueenBB {
 			System.out.printf("%2d", pos[i]);
 		System.out.println();
 	}
-	
 	static void set(int i) {
 		for(int j=0; j<8; j++) {
 			if(flag[j]==false) {
@@ -25,10 +24,7 @@ public class QueenBB {
 			}
 		}
 	}
-
 	public static void main(String[] args) {
 		set(0);
-
 	}
-
 }
