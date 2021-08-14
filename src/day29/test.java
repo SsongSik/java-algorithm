@@ -3,7 +3,7 @@ package day29;
 public class test {
 
 	static void rea(int []b) {
-		b[0] = 5;
+		b[0] = 5 ;
 	}
 	
 	public static void main(String[] args) {
