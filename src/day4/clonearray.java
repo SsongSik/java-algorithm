@@ -17,5 +17,8 @@ public class clonearray {
 			System.out.print(b[i]+"  ");
 		}
 	}
-
 }
+/*°á°ú
+1  2  3  4  5  
+1  2  3  0  5  
+*/
