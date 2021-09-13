@@ -15,7 +15,6 @@ public class CardConvRev {
 		
 		return digits;
 	}
-	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
@@ -41,7 +40,5 @@ public class CardConvRev {
 			System.out.print(cno[i]);
 		}
 		System.out.println("¿‘¥œ¥Ÿ. ");
-		
 	}
-
 }
