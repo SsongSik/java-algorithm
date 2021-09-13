@@ -55,12 +55,14 @@ public class IntQueueTester {
 				x = scan.nextInt();
 				int y = s.indexOf(x);
 				System.out.println(x+"값은 "+y+"에 있습니다.");
+				break;
 				
 			case 6:
 				System.out.print("찾을 값 입력 : ");
 				x = scan.nextInt();
 				int z = s.search(x);
 				System.out.println(x+"값은 "+z+"에 있습니다.");
+				break;
 			}
 		}
 

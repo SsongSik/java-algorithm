@@ -8,7 +8,6 @@ public class PrimeNumber2 {
 		int[] prime = new int[500];
 		
 		prime[ptr++] = 2;
-		
 		for(int n = 3; n<=1000; n+=2) {
 			int i;
 			for(i=1; i<ptr; i++) {
@@ -19,11 +18,9 @@ public class PrimeNumber2 {
 			if(ptr==i)
 				prime[ptr++] = n;
 		}
-
 		for(int i=0; i<ptr; i++) {
 			System.out.println(prime[i]);
 		}
 		System.out.println(counter);
 	}
-
 }
