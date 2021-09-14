@@ -16,9 +16,13 @@ public class PrimeNumber {
 				System.out.println(n);
 			}
 		}
-		
 		System.out.println("ÃÑ ³ª´°¼À È½¼ö :   "+ counter);
-
 	}
-
 }
+/*°á°ú
+2
+3
+5
+..
+ÃÑ ³ª´°¼À È½¼ö :   78022
+*/
