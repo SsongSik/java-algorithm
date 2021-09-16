@@ -16,7 +16,6 @@ public class SeqSearchSen {
 		}
 		return i==n ? -1 : i;
 	}
-	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
