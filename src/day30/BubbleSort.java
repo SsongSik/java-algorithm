@@ -21,7 +21,7 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println("버블 정렬 ");
+		System.out.println("버블 정렬  ");
 		System.out.println("요솟 수 : ");
 		
 		int nx = scan.nextInt();
